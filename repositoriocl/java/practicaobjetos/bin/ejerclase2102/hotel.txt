@@ -1,0 +1,4 @@
+Hotel Plaza*c01
+Hotel Ritz*c02
+Hotel Savoy*c03
+Hotel Luz*c04

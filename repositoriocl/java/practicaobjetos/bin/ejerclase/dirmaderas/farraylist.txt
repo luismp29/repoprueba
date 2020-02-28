@@ -1,0 +1,10 @@
+abeto*negro*abeto*5*6.75*poca
+arce*blanco*arce*5*6.75*poca
+caoba*gris*caoba*5*6.75*poca
+cerezo*cacao*cerezo*11*8.95*media
+fresno*marron claro*fresno*2*12.45*mucha
+haya*naranja*haya*14*3.23*mucha
+nogal*chocolate*nogal*14*3.33*poca
+pino*marron*pino*10*9.45*mucha
+roble*beige*roble*4*8.14*media
+teca*marron oscuro*teca*5*6.75*poca

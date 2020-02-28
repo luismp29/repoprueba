@@ -1,0 +1,7 @@
+ejerObjetos [marca=harley davidson, modelo=dakota, color=negra, puertas=0, ruedas=2, precio=60000.0]
+ejerObjetos [marca=jeep, modelo=wrangler, color=azul, puertas=5, ruedas=5, precio=40104.26]
+ejerObjetos [marca=Man, modelo=brisco, color=blanco, puertas=5, ruedas=12, precio=50234.56]
+ejerObjetos [marca=wolfkswagen, modelo=siroco, color=marron, puertas=3, ruedas=5, precio=9104.26]ejerObjetos [marca=harley davidson, modelo=dakota, color=negra, puertas=0, ruedas=2, precio=60000.0]
+ejerObjetos [marca=jeep, modelo=wrangler, color=azul, puertas=5, ruedas=5, precio=40104.26]
+ejerObjetos [marca=Man, modelo=brisco, color=blanco, puertas=5, ruedas=12, precio=50234.56]
+ejerObjetos [marca=wolfkswagen, modelo=siroco, color=marron, puertas=3, ruedas=5, precio=9104.26]
